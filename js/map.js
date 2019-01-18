@@ -9,7 +9,7 @@ var map = {
       'x-xx-xx-x',
       'xxxxxxxxx'
     ],
-    crap: [
+    crab: [
       '---------',
       '---x-x---',
       '--xxxxx--',

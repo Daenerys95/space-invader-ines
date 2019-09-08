@@ -1,3 +1,44 @@
+body {
+    background: lightgray;
+}
+
 #invader {
-    border: 5px solid #000;
+    margin: 40px auto;
+    overflow: hidden;
+}
+
+.empty {
+    background-color: #fff;
+}
+  
+.plain {
+background-color: #000;
+}
+
+.light {
+background-color: #f33;
+}
+
+.highlight {
+background-color: #33f;
+}
+
+.pixel {
+    width: 20px;
+    height: 20px;
+    float: left;
+}
+
+.select-model {
+    text-align: center;
+    padding: 10px;
+}
+  
+.modelButton {
+    padding: 10px;
+    border: 0;
+    background: black;
+    color: white;
+    cursor: pointer;
+    margin: 5px;
 }
